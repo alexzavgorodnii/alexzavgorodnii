@@ -12,7 +12,7 @@ I'm a passionate Frontend Engineer with over 7 years of professional experience,
 - 🧠 Love solving UI/UX puzzles and creating modular design systems
 
 ## 📦 Open Source Projects
-- - 🖥 [Tiptap Trailing Paragraph](https://github.com/alexzavgorodnii/tiptap-trailing-paragraph)
+- 🖥 [Tiptap Trailing Paragraph](https://github.com/alexzavgorodnii/tiptap-trailing-paragraph)
 
 ## 📌 Featured Projects
 
