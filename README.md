@@ -36,8 +36,8 @@ I’m allergic to guinea pigs… but I’ve been living with two of them for 8 y
 
 ---
 
-## 📬 Let's Connect
+<!-- ## 📬 Let's Connect 
 
 - 🖥 [LinkedIn](https://www.linkedin.com/in/oleksandr-zavhorodnii-7a431955/)
 - 🧑‍💻 [Upwork Profile](https://www.upwork.com/freelancers/~01134c35ef3eb8e2fe?mp_source=share)
-- 📨 Email: workprofileaz@gmail.com
+- 📨 Email: workprofileaz@gmail.com -->
